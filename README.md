@@ -23,28 +23,31 @@ I enjoy converting complex backend logic into clean, reliable, real-world applic
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 # 📊 GitHub Stats:
 
 <p align="center">
-  <a href="https://github-readme-stats.vercel.app/api?username=AbhiramSakha&theme=dark&hide_border=false">
+  <a href="https://github-readme-stats.vercel.app/api?username=AbhiramSakha&theme=dark" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api?username=AbhiramSakha&theme=dark&hide_border=false"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://nirzak-streak-stats.vercel.app/?user=AbhiramSakha&theme=dark&hide_border=false">
+  <a href="https://nirzak-streak-stats.vercel.app/?user=AbhiramSakha&theme=dark" target="_blank">
     <img src="https://nirzak-streak-stats.vercel.app/?user=AbhiramSakha&theme=dark&hide_border=false"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhiramSakha&theme=dark&layout=compact">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhiramSakha&theme=dark&layout=compact"/>
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhiramSakha&theme=dark&layout=compact" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhiramSakha&theme=dark&hide_border=false&layout=compact"/>
   </a>
 </p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=AbhiramSakha&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=AbhiramSakha&icon=0&color=0"/>
+</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
