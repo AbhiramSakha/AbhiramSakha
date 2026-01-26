@@ -66,7 +66,7 @@ I enjoy converting complex backend logic into clean, reliable, real-world applic
 
 <!-- DYNAMIC REPOSITORY COUNT -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbhiramSakha&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&include_all_commits=true&title_color=36BCF7&text_color=ffffff&bg_color=0A66C2" alt="GitHub Stats"/>
+  <img src="https://img.shields.io/badge/Repositories-19-blue?style=for-the-badge&logo=github" />
 </p>
 
 <!-- MAIN STATS (ERROR-FREE CONFIG) -->
