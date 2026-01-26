@@ -64,12 +64,53 @@ I enjoy converting complex backend logic into clean, reliable, real-world applic
   <img src="https://capsule-render.vercel.app/api?type=wave&color=0:36BCF7,100:0A66C2&height=120&section=header&text=📊%20GitHub%20Stats&fontSize=32&fontColor=ffffff" />
 </p>
 
-<!-- REPOSITORY COUNT (DYNAMIC & LIVE) -->
+<!-- MANUAL GITHUB STATS TABLE -->
 <p align="center">
-  <img src="https://img.shields.io/github/repos/AbhiramSakha?style=for-the-badge&logo=github&label=Public%20Repos" />
+  <strong>AbhiramSakha's GitHub Stats (Manual)</strong>
 </p>
 
-<!-- MAIN STATS (ERROR-FREE CONFIG) -->
+<table align="center">
+  <tr>
+    <td>⭐ Total Stars Earned:</td>
+    <td>0</td>
+  </tr>
+  <tr>
+    <td>🕒 Total Commits (last year):</td>
+    <td>720</td>
+  </tr>
+  <tr>
+    <td>🔀 Total PRs:</td>
+    <td>0</td>
+  </tr>
+  <tr>
+    <td>❗ Total Issues:</td>
+    <td>0</td>
+  </tr>
+  <tr>
+    <td>📱 Contributed to (last year):</td>
+    <td>2</td>
+  </tr>
+</table>
+
+<p align="center" style="margin-top: 2rem;">
+  <strong>Contribution Summary</strong>
+</p>
+
+<table align="center" style="margin-top: 1rem;">
+  <tr>
+    <td align="center" style="padding: 1rem;">
+      <strong>340</strong><br/>Total Contributions<br/>Jan 26 - Present
+    </td>
+    <td align="center" style="padding: 1rem 3rem;">
+      <strong>3</strong><br/>Current Streak<br/>Jan 24 - Jan 26
+    </td>
+    <td align="center" style="padding: 1rem;">
+      <strong>45</strong><br/>Longest Streak<br/>
+    </td>
+  </tr>
+</table>
+
+<!-- MAIN DYNAMIC STATS (unchanged) -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AbhiramSakha&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
 </p>
