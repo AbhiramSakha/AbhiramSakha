@@ -54,7 +54,7 @@ I enjoy converting complex backend logic into clean, reliable, real-world applic
 ![PyTorch](https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Keras](https://img.shields.io/badge/keras-D00027?style=for-the-badge&logo=keras&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)
-![Portfolio](https://img.shields.io/badge/portfolio-ff6f00?style=for-the-badge&logo=firefox&logoColor=white)
+[![Portfolio](https://img.shields.io/badge/portfolio-ff6f00?style=for-the-badge&logo=firefox&logoColor=white)](https://portfoliosakhaabhiram.netlify.app/)
 ![Power BI](https://img.shields.io/badge/power%20bi-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
 
 </p>
