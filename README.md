@@ -6,24 +6,25 @@
 
 ---
 
-# 💫 About Me:
-🔭 I’m currently working on  
-AI-powered web applications, scalable REST APIs, ML-based recommendation systems, and full-stack projects using Python, Flask, FastAPI, MongoDB, and modern frontend tools.
+## 💫 About Me
 
-👯 I’m looking to collaborate on  
-AI/ML projects, data analytics dashboards, API-driven web applications, and open-source initiatives focused on automation and real-world problem solving.
+🔭 **Currently working on**  
+AI-powered web applications, scalable REST APIs, ML-based recommendation systems, and full-stack projects using **Python, FastAPI, Flask, MongoDB**, and modern frontend tools.
 
-🤝 I’m looking for help with  
-Advanced machine learning optimization, cloud deployment (GCP/AWS), system architecture, and production-level backend performance tuning.
+👯 **Looking to collaborate on**  
+AI/ML projects, data analytics dashboards, API-driven web applications, and impactful open-source initiatives.
 
-🌱 I’m currently learning  
-Applied Machine Learning, Data Analytics, Google Cloud Platform, secure REST API development (Flask & FastAPI), and real-world project deployment strategies.
+🤝 **Looking for help with**  
+Advanced ML optimization, cloud deployment (AWS/GCP), system architecture, and production-level backend performance tuning.
 
-💬 Ask me about  
-Python, REST APIs, Flask & FastAPI, MongoDB, Machine Learning fundamentals, Web Development, Git/GitHub workflows, and backend best practices.
+🌱 **Currently learning**  
+Applied Machine Learning, Data Analytics, Google Cloud Platform, secure REST API development, and real-world deployment strategies.
 
-⚡ Fun fact  
-I enjoy converting complex backend logic into clean, reliable, real-world applications 🚀  
+💬 **Ask me about**  
+Python, FastAPI, Flask, MongoDB, REST APIs, Machine Learning fundamentals, Git/GitHub, and backend best practices.
+
+⚡ **Fun fact**  
+I love converting complex backend logic into clean, reliable real-world applications 🚀
 
 ---
 
@@ -45,16 +46,10 @@ I enjoy converting complex backend logic into clean, reliable, real-world applic
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=postgresql&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=microsoft-power-bi&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 [![Portfolio](https://img.shields.io/badge/Portfolio-0078D7?style=for-the-badge&logo=About.me&logoColor=white)](https://portfoliosakhaabhiram.netlify.app/)
-![Render](https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![Railway](https://img.shields.io/badge/Railway-000000?style=for-the-badge&logo=railway&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 </p>
 
@@ -64,70 +59,66 @@ I enjoy converting complex backend logic into clean, reliable, real-world applic
   <img src="https://capsule-render.vercel.app/api?type=wave&color=0:36BCF7,100:0A66C2&height=120&section=header&text=📊%20GitHub%20Stats&fontSize=32&fontColor=ffffff" />
 </p>
 
-<!-- MANUAL GITHUB STATS TABLE -->
-<p align="center">
-  <strong>AbhiramSakha's GitHub Stats (Manual)</strong>
-</p>
+<!-- CUSTOM IMAGE-STYLE GITHUB STATS CARD -->
+<div align="center">
 
-<table align="center">
-  <tr>
-    <td>⭐ Total Stars Earned:</td>
-    <td>0</td>
-  </tr>
-  <tr>
-    <td>🕒 Total Commits (last year):</td>
-    <td>720</td>
-  </tr>
-  <tr>
-    <td>🔀 Total PRs:</td>
-    <td>0</td>
-  </tr>
-  <tr>
-    <td>❗ Total Issues:</td>
-    <td>0</td>
-  </tr>
-  <tr>
-    <td>📱 Contributed to (last year):</td>
-    <td>2</td>
-  </tr>
+<div style="
+  background: linear-gradient(135deg, #0f172a, #020617);
+  border-radius: 18px;
+  padding: 24px;
+  width: 420px;
+  color: #e5e7eb;
+  font-family: 'Segoe UI', sans-serif;
+  box-shadow: 0 15px 40px rgba(0,0,0,0.45);
+">
+
+<h3 style="margin-bottom: 16px; color:#60a5fa;">
+  AbhiramSakha's GitHub Stats
+</h3>
+
+<table width="100%">
+<tr><td>⭐ Total Stars Earned</td><td align="right"><strong>0</strong></td></tr>
+<tr><td>🕒 Commits (Last Year)</td><td align="right"><strong>720</strong></td></tr>
+<tr><td>🔀 Pull Requests</td><td align="right"><strong>0</strong></td></tr>
+<tr><td>❗ Issues</td><td align="right"><strong>0</strong></td></tr>
+<tr><td>📦 Contributed To</td><td align="right"><strong>2</strong></td></tr>
 </table>
 
-<p align="center" style="margin-top: 2rem;">
-  <strong>Contribution Summary</strong>
-</p>
+<div style="margin-top: 20px; display: flex; justify-content: space-between; align-items: center;">
+  <div>
+    <p style="margin:0;"><strong>340</strong> Contributions</p>
+    <p style="margin:0; font-size: 13px; color:#94a3b8;">Jan 26 – Present</p>
+    <p style="margin-top:6px;">🔥 <strong>45</strong> Longest Streak</p>
+  </div>
 
-<table align="center" style="margin-top: 1rem;">
-  <tr>
-    <td align="center" style="padding: 1rem;">
-      <strong>340</strong><br/>Total Contributions<br/>Jan 26 - Present
-    </td>
-    <td align="center" style="padding: 1rem 3rem;">
-      <strong>3</strong><br/>Current Streak<br/>Jan 24 - Jan 26
-    </td>
-    <td align="center" style="padding: 1rem;">
-      <strong>45</strong><br/>Longest Streak<br/>
-    </td>
-  </tr>
-</table>
+  <img
+    src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
+    width="70"
+    alt="GitHub Logo"
+    style="filter: invert(1);"
+  />
+</div>
 
-<!-- MAIN DYNAMIC STATS (unchanged) -->
+</div>
+</div>
+
+---
+
+<!-- DYNAMIC STATS -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbhiramSakha&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AbhiramSakha&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
-<!-- STREAK -->
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhiramSakha&theme=tokyonight&hide_border=true" />
 </p>
 
-<!-- TOP LANGUAGES -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhiramSakha&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-<!-- ACTIVITY GRAPH -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbhiramSakha&theme=tokyo-night&hide_border=true" />
 </p>
