@@ -58,13 +58,6 @@ I enjoy converting complex backend logic into clean, reliable, real-world applic
 ![](https://github-readme-stats.vercel.app/api?username=AbhiramSakha&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=AbhiramSakha&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhiramSakha&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-## 🔥 Contribution Stats
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Total%20Contributions-240-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Current%20Streak-3%20Days-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Highest%20Streak-180%20Days-brightgreen?style=for-the-badge" />
-</p>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=AbhiramSakha&icon=0&color=0)](https://visitcount.itsvg.in)
