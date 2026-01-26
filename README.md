@@ -53,31 +53,19 @@ I enjoy converting complex backend logic into clean, reliable, real-world applic
   <img src="https://capsule-render.vercel.app/api?type=wave&color=0:36BCF7,100:0A66C2&height=120&section=header&text=📊%20GitHub%20Stats&fontSize=32&fontColor=ffffff" />
 </p>
 
-<!-- REPOSITORY COUNT (LIVE & STABLE) -->
+<!-- GITHUB STATS ANIMATED STYLE -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Repositories-18-blue?style=for-the-badge&logo=github" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AbhiramSakha&show_icons=true&theme=radical&hide_border=false&count_private=true&include_all_commits=true" alt="GitHub Stats" />
 </p>
 
-<!-- MAIN STATS (ERROR-FREE CONFIG) -->
+<!-- GITHUB STREAK -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbhiramSakha&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-</p>
-
-<!-- STREAK -->
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhiramSakha&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhiramSakha&theme=radical&hide_border=false" alt="GitHub Streak" />
 </p>
 
 <!-- TOP LANGUAGES -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhiramSakha&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-<!-- ACTIVITY GRAPH -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbhiramSakha&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhiramSakha&layout=compact&theme=radical&hide_border=false" alt="Top Languages" />
 </p>
 
 ---
@@ -85,3 +73,5 @@ I enjoy converting complex backend logic into clean, reliable, real-world applic
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=AbhiramSakha&icon=0&color=6" />
 </p>
+
+<!-- Proudly created with GPRM -->
