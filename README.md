@@ -6,24 +6,26 @@
 
 ---
 
-# 💫 About Me:
-🔭 I’m currently working on  
+# 💫 About Me
+🔭 I’m currently working on
 AI-powered web applications, scalable REST APIs, ML-based recommendation systems, and full-stack projects using Python, Flask, FastAPI, MongoDB, and modern frontend tools.
 
-👯 I’m looking to collaborate on  
+👯 I’m looking to collaborate on
 AI/ML projects, data analytics dashboards, API-driven web applications, and open-source initiatives focused on automation and real-world problem solving.
 
-🤝 I’m looking for help with  
+🤝 I’m looking for help with
 Advanced machine learning optimization, cloud deployment (GCP/AWS), system architecture, and production-level backend performance tuning.
 
-🌱 I’m currently learning  
+🌱 I’m currently learning
 Applied Machine Learning, Data Analytics, Google Cloud Platform, secure REST API development (Flask & FastAPI), and real-world project deployment strategies.
 
-💬 Ask me about  
+💬 Ask me about
 Python, REST APIs, Flask & FastAPI, MongoDB, Machine Learning fundamentals, Web Development, Git/GitHub workflows, and backend best practices.
 
-⚡ Fun fact  
-I enjoy converting complex backend logic into clean, reliable, real-world applications 🚀  
+⚡ Fun fact
+I enjoy converting complex backend logic into clean, reliable, real-world applications 🚀
+
+
 
 ---
 
@@ -50,10 +52,6 @@ I enjoy converting complex backend logic into clean, reliable, real-world applic
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 [![Portfolio](https://img.shields.io/badge/Portfolio-0078D7?style=for-the-badge&logo=About.me&logoColor=white)](https://portfoliosakhaabhiram.netlify.app/)
-![Render](https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![Railway](https://img.shields.io/badge/Railway-000000?style=for-the-badge&logo=railway&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 </p>
@@ -64,34 +62,22 @@ I enjoy converting complex backend logic into clean, reliable, real-world applic
   <img src="https://capsule-render.vercel.app/api?type=wave&color=0:36BCF7,100:0A66C2&height=120&section=header&text=📊%20GitHub%20Stats&fontSize=32&fontColor=ffffff" />
 </p>
 
-<!-- VERIFIED STATS -->
-<p align="center">
-  <img src="https://img.shields.io/badge/🔥%20Longest%20Streak-20%20Days-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/⚡%20Current%20Streak-3%20Days%20(Jan%2024–Jan%2026)-blue?style=for-the-badge" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/📊%20Total%20Contributions-310-0A66C2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/📦%20Commits%20(Last%20Year)-750-0A66C2?style=for-the-badge" />
-</p>
+<table>
+<tr>
+  <td align="center"><b>Total Contributions</b><br><br><span style="font-size:28px;">310</span></td>
+  <td align="center"><b>Current Streak</b><br><br><span style="font-size:28px;">3</span></td>
+  <td align="center"><b>Longest Streak</b><br><br><span style="font-size:28px;">20</span></td>
+</tr>
+<tr>
+  <td align="center"><b>Commits (Last Year)</b><br><br><span style="font-size:28px;">750</span></td>
+  <td align="center"><b>Total Issues</b><br><br><span style="font-size:28px;">0</span></td>
+  <td align="center"><b>Repos Contributed<br>(Last Year)</b><br><br><span style="font-size:28px;">2</span></td>
+</tr>
+</table>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/🐞%20Total%20Issues-0-36BCF7?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🤝%20Repos%20Contributed%20(Last%20Year)-2-36BCF7?style=for-the-badge" />
-</p>
-
-<!-- MAIN GITHUB CARDS -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbhiramSakha&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhiramSakha&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhiramSakha&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+</div>
 
 ---
 
