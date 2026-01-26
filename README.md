@@ -69,19 +69,18 @@ I enjoy converting complex backend logic into clean, reliable, real-world applic
   <img src="https://img.shields.io/badge/Repositories-19-blue?style=for-the-badge&logo=github" />
 </p>
 
-<!-- MAIN STATS (ERROR-FREE CONFIG) -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbhiramSakha&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  ![GitHub Commits](https://img.shields.io/badge/Commits-1234-blue?style=for-the-badge&logo=github&logoColor=white)
+  ![GitHub Stars](https://img.shields.io/badge/Stars-56-yellow?style=for-the-badge&logo=github&logoColor=white)
+  ![GitHub PRs](https://img.shields.io/badge/PRs-78-brightgreen?style=for-the-badge&logo=github&logoColor=white)
 </p>
 
-<!-- STREAK -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhiramSakha&theme=tokyonight&hide_border=true" />
+  ![GitHub Streak](https://img.shields.io/badge/Current_Streak-15_days-brightgreen?style=for-the-badge&logo=github&logoColor=white)
 </p>
 
-<!-- TOP LANGUAGES -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhiramSakha&layout=compact&theme=tokyonight&hide_border=true" />
+  ![Top Languages](https://img.shields.io/badge/Top_Langs-Python%2C_JavaScript%2C_Java-blue?style=for-the-badge&logo=github&logoColor=white)
 </p>
 
 ---
