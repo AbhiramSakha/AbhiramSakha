@@ -64,10 +64,11 @@ I love converting complex backend logic into clean, reliable real-world applicat
   <img src="https://github-readme-stats.vercel.app/api?username=AbhiramSakha&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
 </p>
 
-<!-- STREAK STATS -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhiramSakha&theme=tokyonight&hide_border=true" />
+  <img src="https://img.shields.io/badge/Current_Streak-3_days-36BCF7?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Longest_Streak-107_days-0A66C2?style=for-the-badge"/>
 </p>
+
 
 <!-- TOP LANGUAGES -->
 <p align="center">
