@@ -7,25 +7,13 @@
 ---
 
 # 💫 About Me
-🔭 I’m currently working on
-AI-powered web applications, scalable REST APIs, ML-based recommendation systems, and full-stack projects using Python, Flask, FastAPI, MongoDB, and modern frontend tools.
+🔭 Working on AI-powered web applications, scalable REST APIs, ML-based systems, and full-stack projects using Python, Flask, FastAPI, MongoDB, and modern frontend tools.  
 
-👯 I’m looking to collaborate on
-AI/ML projects, data analytics dashboards, API-driven web applications, and open-source initiatives focused on automation and real-world problem solving.
+🌱 Learning Applied Machine Learning, Data Analytics, Google Cloud Platform, and production-level backend systems.  
 
-🤝 I’m looking for help with
-Advanced machine learning optimization, cloud deployment (GCP/AWS), system architecture, and production-level backend performance tuning.
+💬 Ask me about Python, REST APIs, Flask/FastAPI, MongoDB, ML fundamentals, Git/GitHub.  
 
-🌱 I’m currently learning
-Applied Machine Learning, Data Analytics, Google Cloud Platform, secure REST API development (Flask & FastAPI), and real-world project deployment strategies.
-
-💬 Ask me about
-Python, REST APIs, Flask & FastAPI, MongoDB, Machine Learning fundamentals, Web Development, Git/GitHub workflows, and backend best practices.
-
-⚡ Fun fact
-I enjoy converting complex backend logic into clean, reliable, real-world applications 🚀
-
-
+⚡ Fun fact: I enjoy converting complex backend logic into clean real-world applications 🚀  
 
 ---
 
@@ -40,17 +28,21 @@ I enjoy converting complex backend logic into clean, reliable, real-world applic
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=microsoft-power-bi&logoColor=white)
+
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-0078D7?style=for-the-badge&logo=About.me&logoColor=white)](https://portfoliosakhaabhiram.netlify.app/)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
@@ -66,14 +58,33 @@ I enjoy converting complex backend logic into clean, reliable, real-world applic
 
 <table>
 <tr>
-  <td align="center"><b>Total Contributions</b><br><br><span style="font-size:28px;">310</span></td>
-  <td align="center"><b>Current Streak</b><br><br><span style="font-size:28px;">3</span></td>
-  <td align="center"><b>Longest Streak</b><br><br><span style="font-size:28px;">20</span></td>
+  <td align="center">
+    <img src="https://img.icons8.com/ios-glyphs/30/ffffff/github.png"/><br><br>
+    <b style="font-size:26px;">310</b>
+  </td>
+  <td align="center">
+    <img src="https://img.icons8.com/ios-filled/30/ffffff/fire-element.png"/><br><br>
+    <b style="font-size:26px;">3</b>
+  </td>
+  <td align="center">
+    <img src="https://img.icons8.com/ios-filled/30/ffffff/medal.png"/><br><br>
+    <b style="font-size:26px;">20</b>
+  </td>
 </tr>
+
 <tr>
-  <td align="center"><b>Commits (Last Year)</b><br><br><span style="font-size:28px;">750</span></td>
-  <td align="center"><b>Total Issues</b><br><br><span style="font-size:28px;">0</span></td>
-  <td align="center"><b>Repos Contributed<br>(Last Year)</b><br><br><span style="font-size:28px;">2</span></td>
+  <td align="center">
+    <img src="https://img.icons8.com/ios-filled/30/ffffff/commit-git.png"/><br><br>
+    <b style="font-size:26px;">750</b>
+  </td>
+  <td align="center">
+    <img src="https://img.icons8.com/ios-glyphs/30/ffffff/bug.png"/><br><br>
+    <b style="font-size:26px;">0</b>
+  </td>
+  <td align="center">
+    <img src="https://img.icons8.com/ios-filled/30/ffffff/conference-call.png"/><br><br>
+    <b style="font-size:26px;">2</b>
+  </td>
 </tr>
 </table>
 
