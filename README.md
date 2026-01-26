@@ -76,15 +76,14 @@ I enjoy converting complex backend logic into clean, reliable, real-world applic
   <img src="https://img.shields.io/badge/PRs-0-brightgreen?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
-<!-- STREAK -->
 <p align="center">
   <img src="https://img.shields.io/badge/Current_Streak-3_days-brightgreen?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
-<!-- TOP LANGUAGES -->
 <p align="center">
   <img src="https://img.shields.io/badge/Top_Langs-Python%2C_JavaScript%2C_React-blue?style=for-the-badge&logo=github&logoColor=white" />
 </p>
+>
 
 ---
 
