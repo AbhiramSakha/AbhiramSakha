@@ -65,19 +65,20 @@ I enjoy converting complex backend logic into clean, reliable, real-world applic
 </p>
 
 <!-- MAIN GITHUB STATS (STABLE & AUTO-UPDATING) -->
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbhiramSakha&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AbhiramSakha&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
-<!-- STREAK (STABLE) -->
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhiramSakha&theme=tokyonight&hide_border=true" />
 </p>
 
-<!-- TOP LANGUAGES -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhiramSakha&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
+
 
 ---
 
