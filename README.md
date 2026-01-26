@@ -59,66 +59,24 @@ I love converting complex backend logic into clean, reliable real-world applicat
   <img src="https://capsule-render.vercel.app/api?type=wave&color=0:36BCF7,100:0A66C2&height=120&section=header&text=📊%20GitHub%20Stats&fontSize=32&fontColor=ffffff" />
 </p>
 
-<!-- CUSTOM IMAGE-STYLE GITHUB STATS CARD -->
-<div align="center">
-
-<div style="
-  background: linear-gradient(135deg, #0f172a, #020617);
-  border-radius: 18px;
-  padding: 24px;
-  width: 420px;
-  color: #e5e7eb;
-  font-family: 'Segoe UI', sans-serif;
-  box-shadow: 0 15px 40px rgba(0,0,0,0.45);
-">
-
-<h3 style="margin-bottom: 16px; color:#60a5fa;">
-  AbhiramSakha's GitHub Stats
-</h3>
-
-<table width="100%">
-<tr><td>⭐ Total Stars Earned</td><td align="right"><strong>0</strong></td></tr>
-<tr><td>🕒 Commits (Last Year)</td><td align="right"><strong>720</strong></td></tr>
-<tr><td>🔀 Pull Requests</td><td align="right"><strong>0</strong></td></tr>
-<tr><td>❗ Issues</td><td align="right"><strong>0</strong></td></tr>
-<tr><td>📦 Contributed To</td><td align="right"><strong>2</strong></td></tr>
-</table>
-
-<div style="margin-top: 20px; display: flex; justify-content: space-between; align-items: center;">
-  <div>
-    <p style="margin:0;"><strong>340</strong> Contributions</p>
-    <p style="margin:0; font-size: 13px; color:#94a3b8;">Jan 26 – Present</p>
-    <p style="margin-top:6px;">🔥 <strong>45</strong> Longest Streak</p>
-  </div>
-
-  <img
-    src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
-    width="70"
-    alt="GitHub Logo"
-    style="filter: invert(1);"
-  />
-</div>
-
-</div>
-</div>
-
----
-
-<!-- DYNAMIC STATS -->
+<!-- MAIN DYNAMIC STATS -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbhiramSakha&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AbhiramSakha&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
 </p>
 
+<!-- STREAK STATS -->
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhiramSakha&theme=tokyonight&hide_border=true" />
 </p>
 
+<!-- TOP LANGUAGES -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhiramSakha&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
+<!-- ACTIVITY GRAPH -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbhiramSakha&theme=tokyo-night&hide_border=true" />
 </p>
