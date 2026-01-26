@@ -50,11 +50,7 @@ I enjoy converting complex backend logic into clean, reliable, real-world applic
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 [![Portfolio](https://img.shields.io/badge/Portfolio-0078D7?style=for-the-badge&logo=About.me&logoColor=white)](https://portfoliosakhaabhiram.netlify.app/)
-![Render](https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![Railway](https://img.shields.io/badge/Railway-000000?style=for-the-badge&logo=railway&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 </p>
 
@@ -64,27 +60,18 @@ I enjoy converting complex backend logic into clean, reliable, real-world applic
   <img src="https://capsule-render.vercel.app/api?type=wave&color=0:36BCF7,100:0A66C2&height=120&section=header&text=📊%20GitHub%20Stats&fontSize=32&fontColor=ffffff" />
 </p>
 
-<!-- MAIN GITHUB STATS (STABLE & AUTO-UPDATING) -->
-## 📊 GitHub Stats
+## 📊 GitHub Statistics (Verified)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbhiramSakha&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhiramSakha&theme=tokyonight&hide_border=true" />
-</p>
+**🔥 Longest Streak:** 20 days  
+**⚡ Current Streak:** 3 days _(Jan 24 – Jan 26)_  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhiramSakha&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+**📌 Total Contributions:** 310  
+**📦 Total Commits (Last Year):** 750  
+**🐞 Total Issues:** 0  
+**🤝 Repositories Contributed To (Last Year):** 2  
 
-
----
-
-<!-- ACTIVITY GRAPH -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbhiramSakha&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
