@@ -69,21 +69,21 @@ I enjoy converting complex backend logic into clean, reliable, real-world applic
   <img src="https://img.shields.io/badge/Repositories-19-blue?style=for-the-badge&logo=github" />
 </p>
 
-<!-- MAIN STATS (MANUAL BADGES) -->
+<!-- GitHub Stats -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Commits-340-blue?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Stars-0-yellow?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/PRs-0-brightgreen?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AbhiramSakha&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
 </p>
 
+<!-- GitHub Streak -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Current_Streak-3_days-brightgreen?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhiramSakha&theme=tokyonight&hide_border=true" />
 </p>
 
+<!-- Top Languages -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Top_Langs-Python%2C_JavaScript%2C_React-blue?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhiramSakha&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
->
+
 
 ---
 
