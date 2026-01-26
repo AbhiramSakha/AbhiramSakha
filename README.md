@@ -64,25 +64,33 @@ I enjoy converting complex backend logic into clean, reliable, real-world applic
   <img src="https://capsule-render.vercel.app/api?type=wave&color=0:36BCF7,100:0A66C2&height=120&section=header&text=📊%20GitHub%20Stats&fontSize=32&fontColor=ffffff" />
 </p>
 
+<!-- VERIFIED STATS -->
 <p align="center">
-
-<img src="https://img.shields.io/badge/🔥%20Longest%20Streak-20%20Days-36BCF7?style=for-the-badge&labelColor=0A66C2" />
-<img src="https://img.shields.io/badge/⚡%20Current%20Streak-3%20Days%20(Jan%2024–Jan%2026)-36BCF7?style=for-the-badge&labelColor=0A66C2" />
-
+  <img src="https://img.shields.io/badge/🔥%20Longest%20Streak-20%20Days-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/⚡%20Current%20Streak-3%20Days%20(Jan%2024–Jan%2026)-blue?style=for-the-badge" />
 </p>
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/📊%20Total%20Contributions-310-0A66C2?style=for-the-badge" />
-<img src="https://img.shields.io/badge/📦%20Commits%20(Last%20Year)-750-0A66C2?style=for-the-badge" />
-
+  <img src="https://img.shields.io/badge/📊%20Total%20Contributions-310-0A66C2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/📦%20Commits%20(Last%20Year)-750-0A66C2?style=for-the-badge" />
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/🐞%20Total%20Issues-0-36BCF7?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🤝%20Repos%20Contributed%20(Last%20Year)-2-36BCF7?style=for-the-badge" />
+</p>
 
-<img src="https://img.shields.io/badge/🐞%20Total%20Issues-0-36BCF7?style=for-the-badge" />
-<img src="https://img.shields.io/badge/🤝%20Repos%20Contributed%20(Last%20Year)-2-36BCF7?style=for-the-badge" />
+<!-- MAIN GITHUB CARDS -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AbhiramSakha&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhiramSakha&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhiramSakha&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
