@@ -50,22 +50,40 @@ I enjoy converting complex backend logic into clean, reliable, real-world applic
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:36BCF7,100:0A66C2&height=120&section=header&text=📊%20GitHub%20Stats%20(Animated)&fontSize=32&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:36BCF7,100:0A66C2&height=120&section=header&text=📊%20GitHub%20Stats&fontSize=32&fontColor=ffffff" />
 </p>
 
+<!-- REPOSITORY COUNT (LIVE & STABLE) -->
 <p align="center">
-  <!-- Animated GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=AbhiramSakha&show_icons=true&theme=radical&count_private=true&hide_border=false&include_all_commits=true" alt="GitHub Stats" />
-
-  <!-- Animated Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhiramSakha&layout=compact&theme=radical&hide_border=false" alt="Top Languages" />
+  <img src="https://img.shields.io/badge/Repositories-18-blue?style=for-the-badge&logo=github" />
 </p>
 
+<!-- MAIN STATS (ERROR-FREE CONFIG) -->
 <p align="center">
-  <!-- Animated Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhiramSakha&theme=radical&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AbhiramSakha&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
 </p>
+
+<!-- STREAK -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhiramSakha&theme=tokyonight&hide_border=true" />
+</p>
+
+<!-- TOP LANGUAGES -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhiramSakha&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+<!-- ACTIVITY GRAPH -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbhiramSakha&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
 
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=AbhiramSakha&icon=0&color=6" />
 </p>
+
+<!-- Proudly created with GPRM -->
