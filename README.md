@@ -56,7 +56,9 @@ I enjoy converting complex backend logic into clean, reliable, real-world applic
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-0A66C2?style=for-the-badge&logo=firefox&logoColor=white)](https://portfoliosakhaabhiram.netlify.app/)
 
 ---
+
 # 📊 GitHub Stats:
+[![](https://visitcount.itsvg.in/api?id=AbhiramSakha&icon=0&color=0)](https://visitcount.itsvg.in)
 ![](https://github-readme-stats.vercel.app/api?username=AbhiramSakha&theme=tokyonight&hide_border=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AbhiramSakha&theme=tokyonight&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhiramSakha&theme=tokyonight&hide_border=true&layout=compact)
