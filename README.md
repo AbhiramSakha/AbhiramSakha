@@ -53,7 +53,7 @@ I enjoy converting complex backend logic into clean, reliable, real-world applic
 ![Google%20Cloud](https://img.shields.io/badge/google_cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Power%20BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-0A66C2?style=for-the-badge&logo=firefox&logoColor=white)](https://portfoliosakhaabhiram.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-0A66C2?style=for-the-badge&logo=firefox&logoColor=white)](https://portfoliosakhabhiram.netlify.app/)
 
 ---
 # 📊 GitHub Stats:
