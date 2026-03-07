@@ -56,20 +56,51 @@ I enjoy converting complex backend logic into clean, reliable, real-world applic
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-0A66C2?style=for-the-badge&logo=firefox&logoColor=white)](https://portfoliosakhabhiram.netlify.app/)
 
 ---
-# 📊 GitHub Stats:
+# 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=AbhiramSakha&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+<p align="center">
 
-![](https://nirzak-streak-stats.vercel.app/?user=AbhiramSakha&theme=dark&hide_border=false)
+<img src="https://github-readme-stats.vercel.app/api?username=AbhiramSakha&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="170"/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhiramSakha&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<img src="https://nirzak-streak-stats.vercel.app/?user=AbhiramSakha&theme=tokyonight&hide_border=true" height="170"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhiramSakha&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
 
 ---
 
-# 📈 GitHub Activity Graph
+# 🏆 GitHub Trophies
 
-[![Abhiram's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AbhiramSakha&theme=react-dark&hide_border=true)](https://github.com/AbhiramSakha)
+<p align="center">
 
+<img src="https://github-profile-trophy.vercel.app/?username=AbhiramSakha&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=6"/>
+
+</p>
+
+---
+
+# 📈 GitHub Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AbhiramSakha&theme=tokyo-night&hide_border=true&area=true"/>
+
+</p>
+
+---
+
+# 👀 Profile Views
+
+<p align="center">
+
+<img src="https://visitcount.itsvg.in/api?id=AbhiramSakha&icon=5&color=6"/>
+
+</p>
 ---
 
 [![](https://visitcount.itsvg.in/api?id=AbhiramSakha&icon=0&color=0)](https://visitcount.itsvg.in)
