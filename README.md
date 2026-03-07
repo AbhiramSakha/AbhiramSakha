@@ -65,13 +65,6 @@ I enjoy converting complex backend logic into clean, reliable, real-world applic
 <img src="https://nirzak-streak-stats.vercel.app/?user=AbhiramSakha&theme=tokyonight&hide_border=true" height="170"/>
 
 </p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhiramSakha&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
 ---
 
 
