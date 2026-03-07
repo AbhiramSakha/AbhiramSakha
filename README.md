@@ -56,25 +56,19 @@ I enjoy converting complex backend logic into clean, reliable, real-world applic
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-0A66C2?style=for-the-badge&logo=firefox&logoColor=white)](https://portfoliosakhabhiram.netlify.app/)
 
 ---
-# 📊 GitHub Stats
+# 📊 GitHub Stats:
 
-<p align="center">
+![](https://github-readme-stats.vercel.app/api?username=AbhiramSakha&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 
-<img src="https://github-readme-stats.vercel.app/api?username=AbhiramSakha&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="170"/>
+![](https://nirzak-streak-stats.vercel.app/?user=AbhiramSakha&theme=dark&hide_border=false)
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=AbhiramSakha&theme=tokyonight&hide_border=true" height="170"/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhiramSakha&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-</p>
 ---
 
+# 📈 GitHub Activity Graph
 
-# 📈 GitHub Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AbhiramSakha&theme=tokyo-night&hide_border=true&area=true"/>
-
-</p>
+[![Abhiram's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AbhiramSakha&theme=react-dark&hide_border=true)](https://github.com/AbhiramSakha)
 
 ---
 
