@@ -75,4 +75,5 @@ I enjoy converting complex backend logic into clean, reliable, real-world applic
 </p>
 
 ---
+[![](https://visitcount.itsvg.in/api?id=AbhiramSakha&icon=0&color=0)](https://visitcount.itsvg.in)
 
