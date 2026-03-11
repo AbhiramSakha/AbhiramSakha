@@ -57,21 +57,14 @@ I enjoy converting complex backend logic into clean, reliable, real-world applic
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-0A66C2?style=for-the-badge&logo=firefox&logoColor=white)](https://portfoliosakhabhiram.netlify.app/)
 
 ---
-# 📊 GitHub Stats
+# 📊 GitHub Stats:
 
-<p align="center">
+![](https://github-readme-stats.vercel.app/api?username=AbhiramSakha&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=AbhiramSakha&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+![](https://nirzak-streak-stats.vercel.app/?user=AbhiramSakha&theme=dark&hide_border=false)
 
-<img height="170" src="https://nirzak-streak-stats.vercel.app/?user=AbhiramSakha&theme=tokyonight&hide_border=true"/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhiramSakha&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-</p>
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhiramSakha&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
 ---
 # 📈 GitHub Contribution Graph
 
