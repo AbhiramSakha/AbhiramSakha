@@ -59,12 +59,11 @@ I enjoy converting complex backend logic into clean, reliable, real-world applic
 ---
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=AbhiramSakha&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.vercel.app/api?username=AbhiramSakha&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github)
 
-![](https://nirzak-streak-stats.vercel.app/?user=AbhiramSakha&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhiramSakha&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://streak-stats.demolab.com?user=AbhiramSakha&theme=tokyonight&hide_border=false)
 
----
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhiramSakha&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 # 📈 GitHub Contribution Graph
 
 <p align="center">
