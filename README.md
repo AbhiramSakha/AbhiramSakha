@@ -61,9 +61,13 @@ I enjoy converting complex backend logic into clean, reliable, real-world applic
 
 ![](https://github-readme-stats.vercel.app/api?username=AbhiramSakha&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github)
 
-![](https://streak-stats.demolab.com?user=AbhiramSakha&theme=tokyonight&hide_border=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=AbhiramSakha&theme=tokyonight&hide_border=false)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhiramSakha&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbhiramSakha&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AbhiramSakha&theme=tokyonight)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AbhiramSakha&theme=tokyonight)
 # 📈 GitHub Contribution Graph
 
 <p align="center">
