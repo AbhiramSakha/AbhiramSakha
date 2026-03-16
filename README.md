@@ -72,6 +72,11 @@ username=AbhiramSakha&show_icons=true&theme=tokyonight&hide_border=true&count_pr
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AbhiramSakha&theme=tokyonight)
 <!--![]('https://github-readme-stats.vercel.app/api/top-langs/?username=AbhiramSakha&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact')-->
 
+# 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=AbhiramSakha&theme=tokyonight&no-frame=true&margin-w=10)
+
+
 # 📈 GitHub Contribution Graph
 
 <p align="center">
