@@ -60,10 +60,10 @@ I enjoy converting complex backend logic into clean, reliable, real-world applic
 ---
 # 📊 GitHub Stats
 
-<!--![](https://github-readme-stats.vercel.app/api?username=AbhiramSakha&theme=dark&hide_border=false&include_all_commits=false&count_private=false)-->
+![](https://github-readme-stats.vercel.app/api?username=AbhiramSakha&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 <!--![](https://github-readme-stats.vercel.app/api?username=AbhiramSakha&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)-->
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AbhiramSakha&theme=tokyonight)
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbhiramSakha&theme=tokyonight)
+<!--![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AbhiramSakha&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbhiramSakha&theme=tokyonight)-->
 <!--![]('https://github-readme-stats.vercel.app/api?username=AbhiramSakha&theme=dark&hide_border=false&include_all_commits=false&count_private=false')-->
 
 <!--![]('https://github-readme-stats.vercel.app/api?username=AbhiramSakha&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true')-->
