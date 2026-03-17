@@ -74,9 +74,9 @@ I enjoy converting complex backend logic into clean, reliable, real-world applic
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AbhiramSakha&theme=tokyonight)
 <!--![]('https://github-readme-stats.vercel.app/api/top-langs/?username=AbhiramSakha&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact')-->
 
-# 🏆 GitHub Trophies
+<!--# 🏆 GitHub Trophies
 <!--![](https://github-profile-trophy.vercel.app/?username=AbhiramSakha&theme=tokyonight&no-frame=true&margin-w=10)-->
-![](https://github-profile-trophy.vercel.app/?username=AbhiramSakha&theme=tokyonight&no-frame=true&margin-w=10&column=8)
+<!--![](https://github-profile-trophy.vercel.app/?username=AbhiramSakha&theme=tokyonight&no-frame=true&margin-w=10&column=8)
 <!--![](https://github-profile-trophy.vercel.app/?username=AbhiramSakha&theme=tokyonight&no-frame=true&margin-w=10&no-bg=true)-->
 <!--![](https://github-profile-trophy.vercel.app/?username=AbhiramSakha&theme=tokyonight&no-frame=true&margin-w=10&column=8)-->
 
