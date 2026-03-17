@@ -74,8 +74,8 @@ I enjoy converting complex backend logic into clean, reliable, real-world applic
 # 🏆 GitHub Trophies
 
 <!--![](https://github-profile-trophy.vercel.app/?username=AbhiramSakha&theme=tokyonight&no-frame=true&margin-w=10)-->
-![](https://github-profile-trophy.vercel.app/?username=AbhiramSakha&theme=tokyonight&no-frame=true&margin-w=10&no-bg=true)
-<!--![](https://github-profile-trophy.vercel.app/?username=AbhiramSakha&theme=tokyonight&no-frame=true&margin-w=10&column=8)-->
+<!--![](https://github-profile-trophy.vercel.app/?username=AbhiramSakha&theme=tokyonight&no-frame=true&margin-w=10&no-bg=true)-->
+![](https://github-profile-trophy.vercel.app/?username=AbhiramSakha&theme=tokyonight&no-frame=true&margin-w=10&column=8)
 
 
 # 📈 GitHub Contribution Graph
