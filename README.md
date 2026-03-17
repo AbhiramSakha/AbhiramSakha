@@ -75,7 +75,7 @@ username=AbhiramSakha&show_icons=true&theme=tokyonight&hide_border=true&count_pr
 # 🏆 GitHub Trophies
 
 <!--![](https://github-profile-trophy.vercel.app/?username=AbhiramSakha&theme=tokyonight&no-frame=true&margin-w=10)-->
-![Trophies](https://github-profile-trophy.vercel.app/?username=AbhiramSakha&theme=tokyonight&no-frame=true&margin-w=10)
+![]("https://github-profile-trophy.vercel.app/?username=AbhiramSakha&theme=tokyonight&no-frame=true&margin-w=10&no-bg=true")
 
 
 # 📈 GitHub Contribution Graph
