@@ -81,7 +81,8 @@ I enjoy converting complex backend logic into clean, reliable, real-world applic
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=AbhiramSakha&theme=algolia&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+![](https://github-profile-trophy.vercel.app/?username=AbhiramSakha&theme=tokyonight&no-frame=true&margin-w=10)
+
 
 # 📈 GitHub Contribution Graph
 
