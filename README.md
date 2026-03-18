@@ -78,10 +78,10 @@ I enjoy converting complex backend logic into clean, reliable, real-world applic
 <!--![]('https://github-readme-stats.vercel.app/api/top-langs/?username=AbhiramSakha&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact')-->
 
 --
+
 ## 🏆 GitHub Trophies
 
-[![](https://github-profile-trophy.vercel.app/?username=AbhiramSakha&theme=algolia&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=AbhiramSakha&theme=algolia&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 # 📈 GitHub Contribution Graph
 
