@@ -63,7 +63,7 @@ I enjoy converting complex backend logic into clean, reliable, real-world applic
 <!--![](https://github-readme-stats.vercel.app/api?username=AbhiramSakha&theme=dark&hide_border=false&include_all_commits=false&count_private=false)-->
 <!--![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AbhiramSakha&theme=tokyonight)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbhiramSakha&theme=tokyonight)-->
-![](https://streak-stats.demolab.com?user=AbhiramSakha&theme=transparent&hide_border=true&ring=34d399&fire=34d399&currStreakLabel=34d399)
+![](https://github-readme-stats.vercel.app/api?username=AbhiramSakha&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)
 <!--![]('https://github-readme-stats.vercel.app/api?username=AbhiramSakha&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true')-->
 <!--[](https://github-readme-stats.vercel.app/api?username=AbhiramSakha&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true)-->
 
