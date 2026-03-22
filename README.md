@@ -67,7 +67,8 @@ I enjoy converting complex backend logic into clean, reliable, real-world applic
 ![](https://github-readme-stats.vercel.app/api?username=AbhiramSakha&theme=transparent&hide_border=true&include_all_commits=true&count_private=false&title_color=34d399&text_color=94a3b8&icon_color=34d399)<!--![]('https://github-readme-stats.vercel.app/api?username=AbhiramSakha&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true')-->
 <!--[](https://github-readme-stats.vercel.app/api?username=AbhiramSakha&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true)-->
 
-![](https://streak-stats.demolab.com?user=AbhiramSakha&theme=transparent&hide_border=true&ring=34d399&fire=34d399&currStreakLabel=34d399)
+<!--![](https://streak-stats.demolab.com?user=AbhiramSakha&theme=transparent&hide_border=true&ring=34d399&fire=34d399&currStreakLabel=34d399)-->
+![](https://nirzak-streak-stats.vercel.app/?user=AbhiramSakha&theme=dark&hide_border=false)
 <!--![](https://github-readme-streak-stats.herokuapp.com/?user=AbhiramSakha&theme=tokyonight&hide_border=false)-->
 <!--![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AbhiramSakha&theme=tokyonight)-->
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AbhiramSakha&theme=tokyonight)
