@@ -1,4 +1,3 @@
-
 ## Hi there 👋  
 
 <p align="center">
@@ -38,7 +37,7 @@ I enjoy converting complex backend logic into clean, reliable, real-world applic
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Angular](https://img.shields.io/badge/angular-%23E23237.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![React%20Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -51,46 +50,27 @@ I enjoy converting complex backend logic into clean, reliable, real-world applic
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/render-%2346E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-![Google%20Cloud](https://img.shields.io/badge/google_cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/google_cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Power%20BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-0A66C2?style=for-the-badge&logo=firefox&logoColor=white)](https://portfoliosakhabhiram.netlify.app/)
 
 ---
+
 # 📊 GitHub Stats
-<!--![](https://github-readme-stats.vercel.app/api?username=AbhiramSakha&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)-->
-<!--![](https://github-readme-stats.vercel.app/api?username=AbhiramSakha&theme=dark&hide_border=false&include_all_commits=false&count_private=false)-->
-<!--![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AbhiramSakha&theme=tokyonight)
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbhiramSakha&theme=tokyonight)-->
-<!--![](https://github-readme-stats.vercel.app/api?username=AbhiramSakha&theme=tokyonight&show_icons=true&cache_seconds=1)-->
-![](https://github-readme-stats.vercel.app/api?username=AbhiramSakha&theme=transparent&hide_border=true&include_all_commits=true&count_private=false&title_color=34d399&text_color=94a3b8&icon_color=34d399)<!--![]('https://github-readme-stats.vercel.app/api?username=AbhiramSakha&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true')-->
-<!--[](https://github-readme-stats.vercel.app/api?username=AbhiramSakha&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true)-->
 
-<!--![](https://streak-stats.demolab.com?user=AbhiramSakha&theme=transparent&hide_border=true&ring=34d399&fire=34d399&currStreakLabel=34d399)-->
-<!--![](https://nirzak-streak-stats.vercel.app/?user=AbhiramSakha&theme=dark&hide_border=false)-->
+![](https://github-readme-stats.vercel.app/api?username=AbhiramSakha&theme=transparent&hide_border=true&include_all_commits=true&count_private=false&title_color=34d399&text_color=94a3b8&icon_color=34d399)
+
+<!-- ✅ FIXED & RELIABLE STREAK -->
 ![](https://streak-stats.demolab.com?user=AbhiramSakha&theme=tokyonight&hide_border=false)
-<!--![](https://github-readme-streak-stats.herokuapp.com/?user=AbhiramSakha&theme=tokyonight&hide_border=false)-->
 
-<!--![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AbhiramSakha&theme=tokyonight)-->
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AbhiramSakha&theme=tokyonight)
-<!--![]('https://github-readme-stats.vercel.app/api/top-langs/?username=AbhiramSakha&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact')-->
 
 ---
-
-<!--## 🏆 GitHub Trophies
-![](https://github-profile-trophy-git-master-ryo-ma.vercel.app/?username=AbhiramSakha&theme=tokyonight&no-frame=true&row=1&column=7)-->
 
 # 📈 GitHub Contribution Graph
 
 <p align="center">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbhiramSakha&theme=tokyo-night&hide_border=true&area=true"/>
-
 </p>
----
-<!--
-
-[![](https://visitcount.itsvg.in/api?id=AbhiramSakha&icon=0&color=0)](https://visitcount.itsvg.in)
--->
-
-
