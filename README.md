@@ -60,7 +60,8 @@ I enjoy converting complex backend logic into clean, reliable, real-world applic
 
 # 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=AbhiramSakha&theme=transparent&hide_border=true&include_all_commits=true&count_private=false&title_color=34d399&text_color=94a3b8&icon_color=34d399)
+<!--![](https://github-readme-stats.vercel.app/api?username=AbhiramSakha&theme=transparent&hide_border=true&include_all_commits=true&count_private=false&title_color=34d399&text_color=94a3b8&icon_color=34d399)-->
+![](https://github-readme-stats-sigma-five.vercel.app/api?username=AbhiramSakha&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&title_color=34d399&text_color=94a3b8&icon_color=34d399&t=${Date.now()})
 <!--![](https://github-readme-stats.vercel.app/api?username=AbhiramSakha&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)-->
 
 <!-- ✅ FIXED & RELIABLE STREAK -->
