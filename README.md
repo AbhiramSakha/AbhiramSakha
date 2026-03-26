@@ -77,3 +77,11 @@ I enjoy converting complex backend logic into clean, reliable, real-world applic
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbhiramSakha&theme=tokyo-night&hide_border=true&area=true"/>
 </p>
+
+## Contribution Game
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AbhiramSakha/AbhiramSakha/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AbhiramSakha/AbhiramSakha/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/AbhiramSakha/AbhiramSakha/output/github-snake.svg" />
+</picture>
