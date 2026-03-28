@@ -69,7 +69,8 @@ I enjoy converting complex backend logic into clean, reliable, real-world applic
 
 <!-- ✅ FIXED & RELIABLE STREAK -->
 <!--![](https://streak-stats.demolab.com?user=AbhiramSakha&theme=tokyonight&hide_border=false)-->
-![](https://streak-stats.demolab.com/?user=AbhiramSakha&theme=dark&hide_border=true&background=0D1117&ring=34d399&fire=34d399&currStreakLabel=34d399&sideNums=34d399&currStreakNum=34d399&dates=9ca3af&cache_seconds=1800&t=${Date.now()})
+![](https://streak-stats.demolab.com/?user=Abhiramsakha&theme=dark&hide_border=true&background=0D1117&ring=34d399&fire=34d399&currStreakLabel=34d399&sideNums=34d399&currStreakNum=34d399&dates=9ca3af&cache_seconds=0&t=${timestamp})
+<!--![](https://streak-stats.demolab.com/?user=AbhiramSakha&theme=dark&hide_border=true&background=0D1117&ring=34d399&fire=34d399&currStreakLabel=34d399&sideNums=34d399&currStreakNum=34d399&dates=9ca3af&cache_seconds=1800&t=${Date.now()})-->
 
 <!--Prodile Summary-->
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AbhiramSakha&theme=tokyonight)
