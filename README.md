@@ -7,11 +7,11 @@
 <p align="center">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="320"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="250"/>
+  <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="250"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Coding+Late+Night+☕;Building+AI+Projects+🚀;Turning+Ideas+Into+Applications+💻;Backend+Logic+%2B+Machine+Learning+⚡" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Thinking+About+Next+Big+Project+💡;Designing+Scalable+Backend+Systems+⚡;AI+%2B+Development+%2B+Creativity+🚀;Debugging+Life+One+Line+At+A+Time+💻" />
 </p>
 ---
 
