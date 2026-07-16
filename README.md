@@ -1,4 +1,7 @@
+
 ![](https://komarev.com/ghpvc/?username=AbhiramSakha&label=Profile%20Views&color=0e75b6&style=flat)
+
+[![Hits](https://hits.sh/github.com/AbhiramSakha/skillsbuild.svg?style=flat-square)](https://hits.sh/github.com/AbhiramSakha/skillsbuild/)
 
 ## Hi there 👋  
 <p align="center">
