@@ -11,6 +11,10 @@
 </p>
 
 <p align="center">
+  <img src="https://https://iconscout.com/lottie-animation/financial-management-animation_3505403" width="700" alt="Financial Management Animation">
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Thinking+About+Next+Big+Project+💡;Designing+Scalable+Backend+Systems+⚡;AI+%2B+Development+%2B+Creativity+🚀;Debugging+Life+One+Line+At+A+Time+💻" />
 </p>
 ---
