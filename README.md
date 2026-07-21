@@ -17,10 +17,10 @@
 <table>
   <tr>
     <td align="center" width="50%">
-      <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="320"/>
+      <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=450&lines=Hi+👋,+I'm+Abhiram+Sakha;Aspiring+Data+Analyst;SQL+|+Python+|+Power+BI;Turning+Data+into+Insights" alt="Typing SVG" />
     </td>
     <td align="center" width="50%">
-      <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzR3ZzJ1cG5lcHR2dzk5M3N2aGZrdW5zb2NwenNlcjQ2czc5bnNlMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l378c04F2fjeZ7vH2/giphy.gif" width="320" alt="Data Analysis GIF"/>
+      <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="320" alt="Coding GIF"/>
     </td>
   </tr>
 </table>
