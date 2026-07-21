@@ -6,13 +6,25 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&pause=500&color=36BCF7&center=true&vCenter=true&width=800&lines=AI+Powered+Backend+Developer;Machine+Learning+Enthusiast;Building+Scalable+REST+APIs;Turning+Complex+Logic+Into+Real+World+Apps+🚀" />
 </p>
 ---
-<p align="center">
+<!--![]<p align="center">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="320"/>
 </p>
-
 <p align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzR3ZzJ1cG5lcHR2dzk5M3N2aGZrdW5zb2NwenNlcjQ2czc5bnNlMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l378c04F2fjeZ7vH2/giphy.gif" width="700" alt="Data Analytics GIF">
-</p>
+</p>-->
+
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=450&lines=Hi+there!+I'm+Abhiram+Sakha;Aspiring+Data+Analyst;SQL+%7C+Python+%7C+Power+BI;Turning+Data+into+Insights" alt="Typing SVG" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzR3ZzJ1cG5lcHR2dzk5M3N2aGZrdW5zb2NwenNlcjQ2czc5bnNlMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l378c04F2fjeZ7vH2/giphy.gif" width="320" alt="Data Analysis GIF"/>
+    </td>
+  </tr>
+</table>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Thinking+About+Next+Big+Project+💡;Designing+Scalable+Backend+Systems+⚡;AI+%2B+Development+%2B+Creativity+🚀;Debugging+Life+One+Line+At+A+Time+💻" />
