@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://https://iconscout.com/lottie-animation/financial-management-animation_3505403" width="700" alt="Financial Management Animation">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzR3ZzJ1cG5lcHR2dzk5M3N2aGZrdW5zb2NwenNlcjQ2czc5bnNlMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l378c04F2fjeZ7vH2/giphy.gif" width="700" alt="Data Analytics GIF">
 </p>
 
 <p align="center">
