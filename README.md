@@ -1,5 +1,5 @@
 
-![Profile Views](https://komarev.com/ghpvc/?username=AbhiramSakha&label=Profile%20Views&color=0e75b6&style=flat)
+<!--![Profile Views](https://komarev.com/ghpvc/?username=AbhiramSakha&label=Profile%20Views&color=0e75b6&style=flat)-->?
 
 ## Hi there 👋  
 <p align="center">
